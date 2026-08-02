@@ -26,12 +26,6 @@ This project uses a trained Convolutional Neural Network (CNN) model to detect p
 
 ---
 
-## 📸 Screenshots / Demo
-
-
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
@@ -76,6 +70,6 @@ plant-disease-recognition/
 ## 👨‍💻 Author / Contact
 
 *Md Taha Hasan
-mdtahahasan22@gmail.com
-https://github.com/taha7679
+mdtahahasan22@gmail.com,
+https://github.com/taha7679,
 https://www.linkedin.com/in/mdtahahasan/*
